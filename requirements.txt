@@ -39,7 +39,7 @@ MarkupSafe==3.0.2
 matplotlib==3.10.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
-mkl-service==2.4.0
+mkl-service==2.5.2
 ml_dtypes==0.5.3
 namex==0.1.0
 narwhals==2.0.1
